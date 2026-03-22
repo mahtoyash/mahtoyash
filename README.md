@@ -1,4 +1,4 @@
-# About Me:
+# About Me :
 I'm currently working on building and researching machine learning and deep learning systems — from model design to real-world deployment. I'm looking to collaborate with people doing research-level ML work or serious open source projects — the kind where the problem actually matters. I'm looking for help with deploying browser-based ML in a way that doesn't fall apart in production, and with bridging embedded hardware to smarter software layers.
 
 
